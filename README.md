@@ -30,7 +30,7 @@ Ciclo 2023-02
 | Asillo Mendoza, Julio Ernesto | u20201b482 |
 | Vega Sayritupac, Paul Vega    | u20201b333 |
 | Lopez Huaman, Edwin Abdias    | u20201b051 |
-|        |  |
+| Yauricasa Seguil, Juliana Alexandra       |  |
 | Antonio Salazar, Jhan Clinton | u20201b312 |
 
 <br>
