@@ -28,9 +28,9 @@ Ciclo 2023-02
 | Member                        |    Code    |
 |:------------------------------|:----------:|
 | Asillo Mendoza, Julio Ernesto | u20201b482 |
-| Mamani Aro, Leydi Yaquelin    | u20201b745 |
+| Vega Sayritupac, Paul Vega    | u20201b333 |
 | Lopez Huaman, Edwin Abdias    | u20201b051 |
-| Ruiz Carhuamanca, Angie       | u20201b293 |
+|        |  |
 | Antonio Salazar, Jhan Clinton | u20201b312 |
 
 <br>
@@ -249,12 +249,12 @@ Nos encargamos de servir como nexo entre personas interesadas en rentar inmueble
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://i.ibb.co/Q9HYJT6/angie.png" alt="Angie" style="margin-bottom: 5px;" width="800"/>
+            <img src="link imagen foto" alt="Angie" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            Ruiz Carhuamaca, Angie Nayeli
+            Apellido , Nombre 
         </td>
     </tr>
     <tr>
@@ -268,7 +268,7 @@ Nos encargamos de servir como nexo entre personas interesadas en rentar inmueble
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Soy Angie Nayeli Ruiz Carhuamaca y estudio la carrera de Ingeniería de Software en la UPC, que se enfoca en la creación de programas informáticos confiables y de calidad. Me considero una persona creativa, responsable y organizada. Al realizar algún trabajo grupal, me gusta escuchar ideas de mis compañeros y buscar métodos que nos ayuden a realizar correctamente el proyecto.
+        BREVE DESCRIPCIÓN
         </td>
     </tr>
     <tr align="center">
@@ -297,12 +297,12 @@ Nos encargamos de servir como nexo entre personas interesadas en rentar inmueble
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://i.ibb.co/bd39JFb/leydi.png" alt="Leydi" style="margin-bottom: 5px;" width="800"/>
+            <img src="link imagen foto" alt="Leydi" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            Mamani Aro, Leydi Yaquelin
+            Apellido , Nombre 
         </td>
     </tr>
     <tr>
@@ -316,7 +316,7 @@ Nos encargamos de servir como nexo entre personas interesadas en rentar inmueble
         <td align="left">
         <b>Acerca de:</b>
         <br>
-         Soy Leydi Yaquelin Mamani Aro, estudio la carrera de Ingeniería de Software porque tuve la oportunidad de aprender temas sobre computación y sistemas, donde adquirí conocimientos e intereses relacionados con la informática, programación y diseño gráfico. Por otro lado, desde que comencé el primer ciclo en la universidad he tenido que elaborar trabajos grupales, por esa razón he fortalecido mi habilidad para trabajar en equipo y poder resolver problemas asertivamente. Me comprometo a ser responsable con cada entregable del curso, esperando que el startup cumpla con los objetivos propuestos.
+         BREVE DESCRIPCIÓN
         </td>
     </tr>
     <tr align="center">
